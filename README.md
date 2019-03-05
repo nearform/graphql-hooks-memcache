@@ -1,3 +1,12 @@
+## 📣 NOTICE 📣
+This repository has moved into the [`graphql-hooks` monorepo](https://github.com/nearform/graphql-hooks) and is no longer maintained here.
+
+🏡 New home: [graphql-hooks-memcache](https://github.com/nearform/graphql-hooks/tree/master/packages/graphql-hooks-memcache). 
+
+Please raise any issues for this package in the above repository, thank you.
+
+---
+
 # graphql-hooks-memcache
 
 In-memory caching implementation for graphql-hooks
